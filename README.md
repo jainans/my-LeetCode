@@ -1,2 +1,2 @@
-# [my-LeetCode](https://github.com/jainans/my-LeetCode)
+# [My-LeetCode](https://github.com/jainans/my-LeetCode)
 Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub).
