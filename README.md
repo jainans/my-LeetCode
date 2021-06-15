@@ -6,4 +6,4 @@
 ## Content Table 🌟
 | S.No. | Problem | Solution | Time Complexity | Space Complexity | Rating | Tags |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 410. | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [C++](https://github.com/jainans/my-LeetCode/blob/main/split-array-largest-sum/split-array-largest-sum.cpp) | O(nlog(10^9)) | O(1) | Hard | Binary Search |
+| 410. | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [C++](https://github.com/jainans/my-LeetCode/blob/main/split-array-largest-sum/split-array-largest-sum.cpp) | _O(nlog(10^9))_ | _O(1)_ | Hard | Binary Search |
