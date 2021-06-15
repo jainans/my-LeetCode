@@ -4,3 +4,5 @@
 - Any suggestions and contribution are welcome.
 ---
 ## Content Table 🌟
+| S.No. | Problem | Time Complexity | Space Complexity | Rating | Tags |
+| ---- | ---- | ---- | ---- | ---- | ---- |
