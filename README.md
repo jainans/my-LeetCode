@@ -12,3 +12,4 @@
 | 91. | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [C++](https://github.com/jainans/my-LeetCode/blob/main/decode-ways/decode-ways.cpp) | _O(n)_ | _O(n)_ | Medium | DP |
 | 3. | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](https://github.com/jainans/my-LeetCode/blob/main/longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.cpp) | _O(n)_ | _O(n)_ | Medium | Hashing |
 | 139. | [Word Break](https://leetcode.com/problems/word-break/) | [C++](https://github.com/jainans/my-LeetCode/blob/main/word-break/word-break.cpp) | _O(n^2)_ | _O(n)_ | Medium | DP |
+| 1025. | [Divisor Game](https://leetcode.com/problems/divisor-game/) | [C++](https://github.com/jainans/my-LeetCode/blob/main/divisor-game/divisor-game.cpp) | _O(1)_ | _O(1)_ | Easy | DP/Greedy |
