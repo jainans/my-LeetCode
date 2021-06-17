@@ -15,3 +15,4 @@
 | 1025. | [Divisor Game](https://leetcode.com/problems/divisor-game/) | [C++](https://github.com/jainans/my-LeetCode/blob/main/divisor-game/divisor-game.cpp) | _O(1)_ | _O(1)_ | Easy | DP/Greedy |
 | 87. | [ Scramble String](https://leetcode.com/problems/scramble-string/) | [C++](https://github.com/jainans/my-LeetCode/blob/main/scramble-string/scramble-string.cpp) | _O(n^4)_ | _O(n^4)_ | Hard | DP |
 | 329. | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](https://github.com/jainans/my-LeetCode/blob/main/longest-increasing-path-in-a-matrix/longest-increasing-path-in-a-matrix.cpp) | _O(n*m)_ | _O(n*m)_ | Hard | DP |
+| 75. | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [C++](https://github.com/jainans/my-LeetCode/blob/main/sort-colors/sort-colors.cpp) | _O(n)_ | _O(1)_ | Medium | 3 Pointers |
