@@ -1,13 +1,19 @@
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
-        int n = nums.size();
-        for(int i=0; i<nums.size(); i++){
-            if(nums[abs(nums[i])-1]<0)
-                return abs(nums[i]);
-            else
-                nums[abs(nums[i])-1]*=-1;
+      //duplicates in an array will surely lead to the cycle in a linked list
+      // so we will follow the cycle detection algo / Floyd's hare or tortoise algo to solve
+        int hare = nums[0];
+        int tor= nums[0];
+        do{
+            tor = nums[tor];
+            hare = nums[nums[hare]];
+        }while(hare != tor);
+        tor=  nums[0];
+        while(hare!=tor){
+            hare= nums[hare];
+            tor = nums[tor];
         }
-        return 0;
+        return tor;
     }
 };
