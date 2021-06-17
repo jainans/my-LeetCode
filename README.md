@@ -16,3 +16,4 @@
 | 87. | [ Scramble String](https://leetcode.com/problems/scramble-string/) | [C++](https://github.com/jainans/my-LeetCode/blob/main/scramble-string/scramble-string.cpp) | _O(n^4)_ | _O(n^4)_ | Hard | DP |
 | 329. | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](https://github.com/jainans/my-LeetCode/blob/main/longest-increasing-path-in-a-matrix/longest-increasing-path-in-a-matrix.cpp) | _O(n*m)_ | _O(n*m)_ | Hard | DP |
 | 75. | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [C++](https://github.com/jainans/my-LeetCode/blob/main/sort-colors/sort-colors.cpp) | _O(n)_ | _O(1)_ | Medium | 3 Pointers |
+| 1670. | [Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/) | [C++](https://github.com/jainans/my-LeetCode/blob/main/design-front-middle-back-queue/design-front-middle-back-queue.cpp) | _O(1)_ | _O(n)_ | Medium | Deque |
