@@ -19,5 +19,4 @@
 | 1670. | [Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/) | [C++](https://github.com/jainans/my-LeetCode/blob/main/design-front-middle-back-queue/design-front-middle-back-queue.cpp) | _O(1)_ | _O(n)_ | Medium | Deque |
 | 287. | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [C++](https://github.com/jainans/my-LeetCode/blob/main/find-the-duplicate-number/find-the-duplicate-number.cpp) | _O(n)_ | _O(1)_ | Medium | Hare and Tortoise |
 | 767. | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | [C++](https://github.com/jainans/my-LeetCode/blob/main/reorganize-string/reorganize-string.cpp) | _O(n)_ | _O(n)_ | Medium | Greedy/Constructive |
-| 73. | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [C++](https://github.com/jainans/my-LeetCode/blob/main/set-matrix-zeroes/set-matrix-zeroes.cpp
-) | _O(n*m)_ | _O(1)_ | Medium | Greedy |
+| 73. | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [C++](https://github.com/jainans/my-LeetCode/blob/main/set-matrix-zeroes/set-matrix-zeroes.cpp) | _O(n*m)_ | _O(1)_ | Medium | Greedy |
