@@ -1,17 +1,13 @@
 class Solution {
-public:
+  public:
     int singleNumber(vector<int>& nums) {
-        int ans=0;
-        int cnt;
-        for(int i=0; i<32; i++){
-            cnt=0;
-            for(int j=0; j<nums.size(); j++){
-                if(nums[j] & (1<<i))
-                    cnt++;
-            }
-            if(cnt%3==1)
-                ans |= (1<<i);
+        int counterOne = 0;
+        int counterTwo = 0;
+        
+        for (int i = 0; i < nums.size(); i++){
+            counterOne = (~counterTwo) & (counterOne ^ nums[i]);
+            counterTwo = (~counterOne) & (counterTwo ^ nums[i]);
         }
-        return ans;
+        return counterOne;
     }
 };
