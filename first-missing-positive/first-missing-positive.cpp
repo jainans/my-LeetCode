@@ -21,6 +21,11 @@ public:
                 break;
             }
         }
+        for(int i=-10; i<=399; i++){
+            cout<<i<<",";
+            
+        }
+        cout<<endl;
         return ans;
         
         
